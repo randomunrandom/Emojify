@@ -1,2 +1,5 @@
 .idea
 tests.ipynb
+data
+!data/get_data.py
+models
