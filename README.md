@@ -1,4 +1,5 @@
 #Emojify
+
 enrich text with Emojis
 
 a project by [Rexhaif][Rexhaif] and [Random][Random]
