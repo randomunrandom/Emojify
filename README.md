@@ -1,5 +1,6 @@
-#Emojify
-enrich text with Emojis\
+#Emojify\
+enrich text with Emojis
+
 a project by [Rexhaif][Rexhaif] and [Random][Random]
 
 * [Usage](#Usage)
