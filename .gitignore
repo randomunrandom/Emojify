@@ -3,3 +3,5 @@ tests.ipynb
 data
 !data/get_data.py
 models
+.ipynb_checkpoints
+.vector_cache
