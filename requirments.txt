@@ -4,3 +4,6 @@ torchtext
 scikit-learn
 pandas==0.24.0
 numpy
+pytorch-ignite
+tornado>=4.2.0,<6.0.0
+visdom
